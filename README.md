@@ -1,7 +1,7 @@
 # Project: Java Linter
 
 ## Contributors
-Anant Poddar, Aanand Patel
+Anant Poddar
 
 ## Dependencies
 - Language and version
