@@ -1,4 +1,4 @@
-# Project: Java Linter
+# Java Linter
 
 ## Contributors
 Anant Poddar
